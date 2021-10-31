@@ -1,0 +1,25 @@
+,coef,std err,z,P>|z|,[0.025,0.975]
+Total Traffic(MB),-0.0005,0.000,-2.925,0.003,-0.001,-0.000
+Downlink Throughput(Kbps),-3.356e-05,2.88e-05,-1.164,0.244,-9.01e-05,2.3e-05
+Uplink Throughput(Kbps),-0.0010,0.000,-2.976,0.003,-0.002,-0.000
+Downlink TCP Retransmission Rate(%),-0.0425,0.022,-1.924,0.054,-0.086,0.001
+Video Streaming Download Throughput(Kbps),-9.824e-05,1.56e-05,-6.278,0.000,-0.000,-6.76e-05
+Video Streaming xKB Start Delay(ms),-6.428e-05,2.77e-05,-2.322,0.020,-0.000,"-1,00E-05"
+Web Page Download Throughput(Kbps),-7.351e-05,3.36e-05,-2.186,0.029,-0.000,-7.61e-06
+Web Average TCP RTT(ms),0.0002,0.000,1.141,0.254,-0.000,0.000
+Total Traffic(MB),-0.0007,0.000,-4.035,0.000,-0.001,-0.000
+Downlink Throughput(Kbps),-3.879e-05,2.46e-05,-1.579,0.114,-8.69e-05,9.37e-06
+Uplink Throughput(Kbps),-0.0008,0.000,-2.716,0.007,-0.001,-0.000
+Downlink TCP Retransmission Rate(%),-0.0469,0.022,-2.092,0.036,-0.091,-0.003
+Video Streaming Download Throughput(Kbps),-4.531e-05,1.22e-05,-3.699,0.000,-6.93e-05,-2.13e-05
+Video Streaming xKB Start Delay(ms),-7.796e-05,2.83e-05,-2.754,0.006,-0.000,-2.25e-05
+Web Page Download Throughput(Kbps),-3.989e-05,2.63e-05,-1.518,0.129,-9.14e-05,1.16e-05
+Web Average TCP RTT(ms),-0.0003,0.000,-1.857,0.063,-0.001,1.77e-05
+Total Traffic(MB),-0.0013,0.000,-6.975,0.000,-0.002,-0.001
+Downlink Throughput(Kbps),-2.193e-05,2.34e-05,-0.937,0.349,-6.78e-05,2.39e-05
+Uplink Throughput(Kbps),-0.0008,0.000,-2.645,0.008,-0.001,-0.000
+Downlink TCP Retransmission Rate(%),-0.0716,0.024,-2.945,0.003,-0.119,-0.024
+Video Streaming Download Throughput(Kbps),-3.009e-05,1.17e-05,-2.579,0.010,-5.3e-05,-7.22e-06
+Video Streaming xKB Start Delay(ms),-3.232e-05,2.71e-05,-1.194,0.232,-8.54e-05,2.07e-05
+Web Page Download Throughput(Kbps),-3.532e-05,2.55e-05,-1.386,0.166,-8.53e-05,1.46e-05
+Web Average TCP RTT(ms),-0.0005,0.000,-2.671,0.008,-0.001,-0.000
